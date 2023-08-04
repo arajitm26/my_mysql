@@ -1,0 +1,5 @@
+1) which one is left table and which one right table in 'SELECT * FROM products LEFT JOIN category on products.cat_id = category.id;' query?
+
+ans> in this 'SELECT * FROM products LEFT JOIN category on products.cat_id = category.id'  query products is left tabe and category is right table
+
+and if query is 'SELECT * FROM category LEFT JOIN products on products.cat_id = category.id' then category is left tabe and products is right table
